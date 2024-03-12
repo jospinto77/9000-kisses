@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+  }
+  
+  #kisses-container {
+    position: absolute;
+  }
+  
+  .kiss {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-image: url('kiss.png'); /* Replace 'kiss.png' with your image file */
+    background-size: cover;
+  }
+  
