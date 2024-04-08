@@ -37,6 +37,6 @@ document.addEventListener("DOMContentLoaded", function() {
      setInterval(
       createKissImage, 250
     )
-
+  
 });
   
